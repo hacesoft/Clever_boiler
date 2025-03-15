@@ -79,7 +79,7 @@ Pro zjištění stavu vstupů:
 
 ### Upozornění:
 - **Nepřipojujte Shelly do cloudu**, je to nespolehlivé.
-- Udržujte všechny **Shelly komponenty v dosahu vaší automatizace**.
+- Udržujte všechny **Shelly komponenty v dosahu vaší síti kde běží automatizace**.
 - Pokud používáte **VLANy**, nezapomeňte správně nastavit **firewallová pravidla**.
 - **Preferujte připojení přes LAN kabel**, abyste se vyhnuli výpadkům WiFi.
 
