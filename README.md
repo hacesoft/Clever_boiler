@@ -76,6 +76,9 @@ Pro zjištění stavu vstupů:
     "state": false
   }
 ```
+###  Jak ovládat:
+- Třeba v NODE-RED: https://github.com/hacesoft/Cooling_Trackers_Rack , zde je příklad pro ovládání SHELLY PLUGINu.
+- Jak Ovládat FVE: https://github.com/hacesoft/Linea
 
 ### Upozornění:
 - **Nepřipojujte Shelly do cloudu**, je to nespolehlivé.
